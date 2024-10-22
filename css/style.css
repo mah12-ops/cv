@@ -1,0 +1,120 @@
+body{
+      background-color: #EAF9F5;
+      text-align: center;
+      font-family: 'Merriweather', serif;
+}
+
+
+h1{
+    color:#66BFBF ;
+    margin: 50px auto 0 auto ;
+    font-family: 'sacramento' ,cursive;
+    font-size: 5.625rem;
+}
+h2{
+    color:#66BFBF ;
+    font-family: 'montserrat' , sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3{
+
+    color:#11999E ;
+    font-family: 'montserrat' , sans-serif;
+}
+p{
+    text-align: 2;
+}
+hr{
+    border: dotted #EAF6F6 10px;
+    border-bottom: none;
+    width: 5%;
+}
+a{
+    color: #11999E;
+    margin:10px 20px ;
+    text-decoration: none;
+    font-family: 'montserrat' , sans-serif;
+}
+a:hover{
+    color: #EAF6F6;
+
+}
+
+.bottom-cloud{
+    position: absolute;
+    top: 300px;
+    left: 200px;
+}
+.top-cloud{
+    position: absolute;
+    right: 100px;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px ;
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    margin-top: 100px;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;
+   
+}
+.skill{
+     width: 25%;
+     float: left;
+    margin-right: 30px;
+}
+.cooking{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.profile{
+    margin-top: 100px;
+}
+.my-work{
+    width: 30%;
+    margin: auto;
+}
+.codes{
+    margin: 40px auto 60px;
+    width: 25%;
+
+}
+.copy-right{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.btn {
+    font-size:20px;
+    font-family:Arial;
+    width:160px;
+    height:54px;
+    border-width:1px;
+    color:#ffffff;
+    border-color:rgba(80, 227, 194, 1);
+    font-weight:bold;
+    font-style:italic;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    box-shadow:inset 0px 1px 0px 0px rgba(80, 227, 194, 1);
+    text-shadow:inset 0px 1px 0px rgba(80, 227, 194, 1);
+    background:linear-gradient(rgba(17, 205, 212, 1), rgba(17, 153, 153, 1));
+  }
+  
+  .btn:hover {
+    background: linear-gradient(rgba(17, 153, 153, 1), rgba(17, 205, 212, 1));
+  }
+                
